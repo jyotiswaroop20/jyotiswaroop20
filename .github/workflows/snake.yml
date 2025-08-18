@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-  - cron:  '30 5,17 * * *' # हर रोज़ रात 12 बजे run होगा
-  workflow_dispatch:      # manually भी run कर सकते हो
+    - cron: "0 0 * * *"   # रोज़ आधी रात को run होगा
+  workflow_dispatch:       # manually भी run कर सकते हो
 
 jobs:
   build:
