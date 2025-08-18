@@ -2,8 +2,9 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # रोज़ आधी रात को run होगा
-  workflow_dispatch:       # manually भी run कर सकते हो
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 5,17 * * *'
+  workflow_dispatch:      
 
 jobs:
   build:
