@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;💻+Linux+%26+DevOps+Engineer;☁️+Cloud+Explorer;🚀+Lifelong+Learner)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;💻+Linux+%26+DevOps+Engineer;☁️+Cloud+Explorer;🚀+Lifelong+Learner)](https://git.io/typing-svg)
   
 
 💻 A Self-taught **Linux System Administrator & DevOps Engineer** with RHCSA/RHCE-level expertise in Red Hat systems.  
