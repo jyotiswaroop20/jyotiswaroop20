@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Jyoti Swaroop Mani Tripathi  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyoti+Swaroop+Mani+Tripathi;💻+Linux+%26+DevOps+Engineer;☁️+Cloud+Explorer;🚀+Lifelong+Learner)](https://git.io/typing-svg)
+  
 
 💻 A Self-taught **Linux System Administrator & DevOps Engineer** with RHCSA/RHCE-level expertise in Red Hat systems.  
 ⚡ Skilled in **Linux Administration, Cloud (AWS), DevOps Tools, Automation, and Monitoring**.  
@@ -61,8 +62,3 @@
   <a href="mailto:Jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-## 🚀 My Arsenal of Technologies   
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🔥+Linux+Lover;⚙️+DevOps+Enthusiast;☁️+Cloud+Explorer;🚀+Lifelong+Learner)](https://git.io/typing-svg)
-
