@@ -62,9 +62,3 @@
   <a href="mailto:Jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-
-## 🛠️ Tech Stack & Tools  
-
-![DevOps Banner](https://img.shields.io/badge/Linux-DevOps%20%7C%20Cloud%20%7C%20Automation-F75C7E?style=for-the-badge&logo=linux&logoColor=white)
-
