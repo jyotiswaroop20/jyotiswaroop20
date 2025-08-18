@@ -35,21 +35,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-
-![GitHub Snake](https://github.com/jyotiswaroop20/jyotiswaroop20/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="mailto:Jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-## 🛠️ Tech Stack & Tools
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
@@ -66,5 +51,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50px" />
 </p>
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:Jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+## 🛠️ Tech Stack & Tools
 
 🔥🐧 Linux Lover | ⚙️ DevOps Enthusiast | ☁️ Cloud Explorer | 🚀 Lifelong Learner
