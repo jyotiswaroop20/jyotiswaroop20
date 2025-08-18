@@ -23,21 +23,21 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotimanitripathi&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotimanitripathi&layout=compact&theme=radical" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotiswaroop20&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiswaroop20&layout=compact&theme=radical" width="41%"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jyotimanitripathi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jyotiswaroop20&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🐍 GitHub Contribution Snake  
 
-![GitHub Snake](https://github.com/jyotimanitripathi/jyotimanitripathi/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/jyotiswaroop20/jyotiswaroop20/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -48,4 +48,4 @@
   <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-⭐ From [Jyoti Swaroop Mani Tripathi](https://github.com/jyotimanitripathi)  
+🔥🐧 Linux Lover | ⚙️ DevOps Enthusiast | ☁️ Cloud Explorer | 🚀 Lifelong Learner
