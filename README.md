@@ -61,10 +61,10 @@
 <p align="center">
   <a href="mailto:Jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-<!-- Portfolio Button -->
-<a href="https://jyotiswaroop20.github.io/shandilya-portfolio-website/" target="_blank" style="text-decoration: none;">
+  <a href="https://jyotiswaroop20.github.io/shandilya-portfolio-website/" target="_blank" style="text-decoration: none;">
   <div style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin: 5px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:20px; vertical-align:middle; margin-right:8px;">
-    PORTFOLIO
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:20px; vertical-align:middle; margin-right:8px;">
+  PORTFOLIO
   </div>
 </a>
 
