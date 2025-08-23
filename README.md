@@ -61,5 +61,5 @@
 <p align="center">
   <a href="mailto:Jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  [![Portfolio](./456ff333-722d-45d0-964a-039597f43eb4.png)](https://jyotiswaroop20.github.io/shandilya-portfolio-website/)
+  [![Portfolio](./456ff333-722d-45d0-964a-039597f43eb4.png)](https://jyotiswaroop20.github.io/jyotiswaroop20/)
 </p>
