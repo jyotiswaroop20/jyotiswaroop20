@@ -2,7 +2,7 @@
   
 
 💻 A Self-taught **Linux System Administrator & DevOps Engineer** with RHCSA/RHCE-level expertise in Red Hat systems.  
-⚡ Skilled in **Linux Administration, Cloud (AWS), DevOps Tools, Automation, and Monitoring**.  
+⚡ Skilled in **Linux Administration, Cloud (AWS), DevOps Tools, Automation, C Programming, and Monitoring**.  
 🚀 Passionate about building secure, scalable, and automated infrastructures.  
 
 ---
@@ -10,14 +10,14 @@
 ## 🚀 About Me  
 - 🔭 Pursuing a career in **Linux Administration & DevOps Engineering**  
 - 🌱 Learning **Advanced Linux, AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible**  
-- ⚙️ Hands-on with **Automation (Bash & Python scripting)**  
+- ⚙️ Hands-on with **Automation (Bash scripting)**  
 - 🎯 Goal: To contribute as a **DevOps Engineer** in production-grade systems  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `AWS` • `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `Prometheus` • `Grafana` • `Git/GitHub` • `Bash` • `Python`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `AWS` • `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `Prometheus` • `Grafana` • `Git/GitHub` • `Bash` • `C Programming`  
 
 ---
 
@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50px" />
