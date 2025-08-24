@@ -32,7 +32,39 @@
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jyotiswaroop20&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">Hi 👋, I'm Jyoti Swaroop</h1>
+<h3 align="center">Aspiring Linux Kernel & DevOps Engineer 🚀</h3>
+
+---
+
+## 🏆 GitHub Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotiswaroop20&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=jyotiswaroop20&theme=radical&hide_border=true" alt="streak" height="150"/>
+</p>
+
+---
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiswaroop20&layout=compact&theme=radical" alt="langs" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiswaroop20&theme=radical" alt="activity graph"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 “Kernel Programming is not just coding, it's crafting the soul of Linux!”  
+
 
 ---
 
