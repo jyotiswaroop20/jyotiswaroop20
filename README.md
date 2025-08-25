@@ -32,8 +32,8 @@
 
 ## 🏆 GitHub Profile Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiswaroop20&theme=radical&hide_border=true" alt="streak" height="150"/>
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=jyotiswaroop20&theme=radical&hide_border=true" alt="streak" height="150"/> 
 </p>
 
 ---
