@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `AWS (EC2, S3, IAM, VPC)` • `Docker/Podman` • `Git/GitHub` • `Bash` • `Python` • `C Programming` • `Networking & Security (SSH, Firewalld, Nginx, Apache)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `AWS (EC2, S3, IAM, VPC)` • `Docker/Podman` • `Ansible`• `Git/GitHub` • `Bash` • `Python` • `C Programming` • `Networking & Security (SSH, Firewalld, Nginx, Apache)`  
 
 ---
 
