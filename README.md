@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🔭 Focused on a career in **Linux System Administration & Cloud Computing**  
 - 🌱 Exploring **AWS, Cybersecurity, Containers (Docker/Podman)**  
-- ⚙️ Hands-on with **Automation (Bash, Python, C)**  
+- ⚙️ Hands-on with **Automation (Bash, Python, C & Ansible)**  
 - 🎯 Goal: To contribute in **Linux, Cloud, and Automation projects**  
 
 ---
