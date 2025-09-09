@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `AWS (EC2, S3, IAM, VPC)` • `Docker/Podman` • `Ansible`• `Git/GitHub` • `Bash` • `Python` • `C Programming` • `Networking & Security (SSH, Firewalld, Nginx, Apache)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS, Kali)` • `AWS (EC2, S3, IAM, VPC)` • `Docker/Podman` • `Ansible`• `Git/GitHub` • `Bash` • `Python` • `C Programming` • `Networking & Security (SSH, Firewalld, Nginx, Apache)`  
 
 ---
 
@@ -67,6 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50px"/>
 
 </p>
 
