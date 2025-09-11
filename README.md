@@ -1,22 +1,22 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+%26+Server+Administrator;☁️+AWS+Cloud+%26+Cybersecurity+Enthusiast;⚙️+Automation+with+Python+%26+C;🚀+Lifelong+Learner)](https://git.io/typing-svg)
-  
-💻 A Self-taught **Linux & Server Administrator** with expertise in Linux systems, AWS Cloud, Cybersecurity, and Automation.  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+%26+Server+Administrator;⚙️+Automation+with+Python+%26+C;🚀+Lifelong+Learner)](https://git.io/typing-svg)
+
+💻 A Self-taught **Linux & Server Administrator** with expertise in Linux systems, Cybersecurity, and Automation.  
 ⚡ Skilled in **Linux Administration, Git, Docker/Podman, C Programming, and Python Automation**.  
 🚀 Passionate about building **secure, scalable, and automated infrastructures**.  
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Focused on a career in **Linux System Administration & Cloud Computing**  
-- 🌱 Exploring **AWS, Cybersecurity, Containers (Docker/Podman)**  
-- ⚙️ Hands-on with **Automation (Bash, Python, C & Ansible)**  
-- 🎯 Goal: To contribute in **Linux, Cloud, and Automation projects**  
+- 🔭 Focused on a career in **Linux System Administration & Cybersecurity**  
+- 🌱 Exploring **Containers (Docker/Podman) and Automation**  
+- ⚙️ Hands-on with **Bash, Python, C & Ansible**  
+- 🎯 Goal: To contribute in **Linux, Cybersecurity, and Automation projects**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS, Kali)` • `AWS (EC2, S3, IAM, VPC)` • `Docker/Podman` • `Ansible`• `Git/GitHub` • `Bash` • `Python` • `C Programming` • `Networking & Security (SSH, Firewalld, Nginx, Apache)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS, Kali)` • `Docker/Podman` • `Ansible`• `Git/GitHub` • `Bash` • `Python` • `C Programming` • `Networking & Security (SSH, Firewalld, Nginx, Apache)`  
 
 ---
 
@@ -62,13 +62,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/securityscorecard.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50px"/>
-
 </p>
 
 ---
@@ -86,4 +84,4 @@
 ---
 
 ## ⚡ Fun Fact  
-💡 “Kernel, Security & Automation are not just skills — they are the future of IT!”  
+💡 “Kernel, Security & Automation are not just skills — they are the future of IT!”
