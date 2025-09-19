@@ -1,22 +1,22 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+%26+Server+Administrator;⚙️+Automation+with+Python+%26+C;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
 💻 A Self-taught **Linux & Server Administrator** with expertise in Linux systems and Automation.  
-⚡ Skilled in **Linux Administration, Git, Docker/Podman, C Programming, and Python Automation**.  
+⚡ Skilled in **Linux Administration, Git, Podman, Python Automation**.  
 🚀 Passionate about building **scalable, reliable, and automated infrastructures**.  
 
 ---
 
 ## 🚀 About Me  
 - 🔭 Focused on a career in **Linux System Administration**  
-- 🌱 Exploring **Containers (Docker/Podman) and Automation**  
-- ⚙️ Hands-on with **Bash, Python, and C**  
+- 🌱 Exploring **Containers (Podman) and Automation**  
+- ⚙️ Hands-on with **Bash and Python**  
 - 🎯 Goal: To contribute in **Linux and Automation projects**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS, Debian)` • `Docker/Podman` • `Git/GitHub` • `Bash` • `Python` • `C Programming` • `Networking & Services (SSH, Firewalld, Nginx, Apache)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS, Debian)` • `Podman` • `Git/GitHub` • `Bash` • `Python` • `Networking & Services (SSH, Firewalld, Nginx, Apache)`  
 
 ---
 
@@ -58,8 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px"/>
