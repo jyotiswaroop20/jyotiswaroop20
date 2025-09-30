@@ -1,22 +1,22 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+%26+Server+Administrator;⚙️+Automation+with+Python+%26+C;🚀+Lifelong+Learner)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+%26+Automation+Specialist;⚙️+Python+%26+Bash+Automation;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
-💻 A Self-taught **Linux & Server Administrator** with expertise in Linux systems and Automation.  
-⚡ Skilled in **Linux Administration, Git, Podman, Python Automation**.  
-🚀 Passionate about building **scalable, reliable, and automated infrastructures**.  
+💻 A self-taught **Linux & Automation Specialist** with a strong focus on Linux administration and Python automation.  
+⚡ Skilled in **Linux System Administration, Git, Podman, Python scripting, Bash**.  
+🚀 Passionate about building **secure, reliable, and automated infrastructures**.  
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Focused on a career in **Linux System Administration**  
-- 🌱 Exploring **Containers (Podman) and Automation**  
-- ⚙️ Hands-on with **Bash and Python**  
-- 🎯 Goal: To contribute in **Linux and Automation projects**  
+- 🔭 Focused on a career in **Linux System Administration & Automation Engineering**  
+- 🌱 Exploring **Containers (Podman/Docker) and basic DevOps tools**  
+- ⚙️ Hands-on with **Python for automation** and **Bash scripting**  
+- 🎯 Goal: To contribute to **Linux, Automation, and Infrastructure projects**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS, Debian)` • `Podman` • `Git/GitHub` • `Bash` • `Python` • `Networking & Services (SSH, Firewalld, Nginx, Apache)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS, Debian)` • `Python` • `Bash` • `Podman/Docker` • `Git & GitHub` • `Basic DevOps exposure (Kubernetes, Jenkins, Terraform, AWS, Prometheus, Grafana)` • `Networking & Services (SSH, Firewalld, Nginx, Apache)`  
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🚀 Tools and Technologies  
+## 🛠️ Tools & Technologies  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
@@ -60,7 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px" />
 </p>
 
 ---
@@ -78,4 +79,4 @@
 ---
 
 ## ⚡ Fun Fact  
-💡 “Kernel, Automation & Containers are not just skills — they are the backbone of modern IT!”
+💡 “Linux, Python Automation, and Containers form the backbone of modern IT infrastructure, and I enjoy mastering them every day!”
