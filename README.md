@@ -1,22 +1,22 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+%26+Automation+Specialist;⚙️+Python+%26+Bash+Automation;🚀+Lifelong+Learner)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+System+Administrator;⚙️+Bash+%26+C+Programming;🚀+Self+Taught+IT+Professional)](https://git.io/typing-svg)
 
-💻 A self-taught **Linux & Automation Specialist** with a strong focus on Linux administration and Python automation.  
-⚡ Skilled in **Linux System Administration, Git, Podman, Python scripting, Bash**.  
-🚀 Passionate about building **secure, reliable, and automated infrastructures**.  
+💻 A self-taught **Linux System Administrator** with strong expertise in Linux administration, Bash scripting, and C programming.  
+⚡ Skilled in **Linux system configuration, server deployment, automation, and container management with Podman**.  
+🚀 Passionate about building **secure, efficient, and fully managed Linux systems**.  
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Focused on a career in **Linux System Administration & Automation Engineering**  
-- 🌱 Exploring **Containers (Podman/Docker) and basic DevOps tools**  
-- ⚙️ Hands-on with **Python for automation** and **Bash scripting**  
-- 🎯 Goal: To contribute to **Linux, Automation, and Infrastructure projects**  
+- 🔭 Focused on a career in **Linux System Administration & Infrastructure Management**  
+- 🌱 Exploring **Containerization (Podman)** and **Automation using Bash scripting**  
+- ⚙️ Hands-on with **Server configuration, networking, and system hardening**  
+- 🎯 Goal: To contribute to **open-source and Linux infrastructure projects**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS, Debian)` • `Python` • `Bash` • `Podman/Docker` • `Git & GitHub` • `Basic DevOps exposure (Kubernetes, Jenkins, Terraform, AWS, Prometheus, Grafana)` • `Networking & Services (SSH, Firewalld, Nginx, Apache)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `Bash` • `C Programming` • `Podman` • `Git & GitHub` • `Networking & Security` • `Virtualization (VMware, VirtualBox)` • `Server Configuration (Apache, Nginx, Tomcat, DNS, DHCP, FTP, Samba)`  
 
 ---
 
@@ -57,18 +57,13 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px" />
 </p>
-
 
 ---
 
@@ -85,4 +80,4 @@
 ---
 
 ## ⚡ Fun Fact  
-💡 “Linux, Python Automation, and Containers form the backbone of modern IT infrastructure, and I enjoy mastering them every day!”
+💡 “Linux, Bash, and C are not just technologies — they are the foundation on which I build secure and automated systems.”  
