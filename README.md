@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+System+Administrator;⚙️+Bash+%26+C+Programming;🚀+Self+Taught+IT+Professional)](https://git.io/typing-svg)
 
 💻 A self-taught **Linux System Administrator** with strong expertise in Linux administration, Bash scripting, and C programming.  
-⚡ Skilled in **Linux system configuration, server deployment, automation, and container management with Podman**.  
+⚡ Skilled in **Linux system configuration, server deployment, automation, container management with Podman, Windows Server management, and basic hardware & networking**.  
 🚀 Passionate about building **secure, efficient, and fully managed Linux systems**.  
 
 ---
@@ -9,14 +9,15 @@
 ## 🚀 About Me  
 - 🔭 Focused on a career in **Linux System Administration & Infrastructure Management**  
 - 🌱 Exploring **Containerization (Podman)** and **Automation using Bash scripting**  
-- ⚙️ Hands-on with **Server configuration, networking, and system hardening**  
+- ⚙️ Hands-on with **Server configuration, networking, system hardening, and Windows Server administration**  
+- 🧰 Familiar with **Basic Hardware & Networking troubleshooting**  
 - 🎯 Goal: To contribute to **open-source and Linux infrastructure projects**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `Bash` • `C Programming` • `Podman` • `Git & GitHub` • `Networking & Security` • `Virtualization (VMware, VirtualBox)` • `Server Configuration (Apache, Nginx, Tomcat, DNS, DHCP, FTP, Samba)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `Windows Server` • `Bash` • `C Programming` • `Podman` • `Git & GitHub` • `Networking & Security` • `Basic Hardware` • `Virtualization (VMware, VirtualBox)` • `Server Configuration (Apache, Nginx, Tomcat, DNS, DHCP, FTP, Samba)`  
 
 ---
 
@@ -61,6 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px" />
 </p>
