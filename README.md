@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `Windows Server` • `Bash` • `C Programming` • `Podman` • `Git & GitHub` • `Networking & Security` • `Basic Hardware` • `Virtualization (VMware, VirtualBox)` • `Server Configuration (Apache, Nginx, Tomcat, DNS, DHCP, FTP, Samba)`  
+`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `Windows Server` • `Bash` • `C Programming` • `Podman` • `Git & GitHub` • `Networking & Security` • `Basic Hardware` • `Virtualization (VMware, Hyper-V, VirtualBox)` • `Server Configuration (Apache, Nginx, Tomcat, DNS, DHCP, FTP, Samba)`  
 
 ---
 
