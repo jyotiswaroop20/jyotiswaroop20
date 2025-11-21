@@ -1,46 +1,52 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Linux+System+Administrator;⚙️+Bash+%26+C+Programming;🚀+Self+Taught+IT+Professional)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Junior+Linux+System+Administrator;⚙️+Bash+%26+Linux+Automation;🚀+Self-Taught+IT+Professional)](https://git.io/typing-svg)
 
-💻 A self-taught **Linux System Administrator** with strong expertise in Linux administration, Bash scripting, and C programming.  
-⚡ Skilled in **Linux system configuration, server deployment, automation, container management with Podman, Windows Server management, and basic hardware & networking**.  
-🚀 Passionate about building **secure, efficient, and fully managed Linux systems**.  
+💻 A dedicated **Junior Linux System Administrator** with strong skills in Linux system configuration, server management, Bash scripting, and infrastructure troubleshooting.  
+⚡ Hands-on experience managing **Linux servers, container environments (Podman), networking essentials, system hardening, and basic Windows Server administration**.  
+🚀 Passionate about building **secure, stable, and efficient Linux environments** through continuous learning and practical experimentation.  
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Focused on a career in **Linux System Administration & Infrastructure Management**  
-- 🌱 Exploring **Containerization (Podman)** and **Automation using Bash scripting**  
-- ⚙️ Hands-on with **Server configuration, networking, system hardening, and Windows Server administration**  
-- 🧰 Familiar with **Basic Hardware & Networking troubleshooting**  
-- 🎯 Goal: To contribute to **open-source and Linux infrastructure projects**  
+- 🐧 Transitioned from **School Administration to IT** through strong self-learning and hands-on Linux lab practice  
+- 🔭 Actively building my career in **Linux System Administration & Infrastructure Management**  
+- 🌱 Exploring **automation (Bash), Podman containers**, and system security  
+- ⚙️ Skilled in configuring essential services like **Apache, Nginx, DNS, DHCP, FTP, Samba, MySQL/MariaDB**  
+- 🎯 Goal: To contribute to **Linux infrastructure, automation tools**, and open-source projects  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-`Linux (RHEL, AlmaLinux, Rocky, CentOS)` • `Windows Server` • `Bash` • `C Programming` • `Podman` • `Git & GitHub` • `Networking & Security` • `Basic Hardware` • `Virtualization (VMware, Hyper-V, VirtualBox)` • `Server Configuration (Apache, Nginx, Tomcat, DNS, DHCP, FTP, Samba)`  
+`Linux (RHEL, CentOS, AlmaLinux, Rocky)`  
+`Bash Scripting` • `Podman` • `Networking (DNS, DHCP, NTP, Firewall)`  
+`Apache / Nginx / Tomcat` • `FTP / Samba / NFS`  
+`MySQL / MariaDB`  
+`Windows Server Basics (AD, DNS, DHCP)`  
+`Virtualization (VMware, Hyper-V, VirtualBox)`  
+`Troubleshooting (Hardware, Network, OS)`  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotiswaroop20&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotiswaroop20&show_icons=true&theme=tokyonight" width="50%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Streaks  
+## 🔥 GitHub Streaks  
 
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=jyotiswaroop20&theme=tokyonight&hide_border=true" alt="streak" height="150"/> 
+  <img src="https://streak-stats.demolab.com?user=jyotiswaroop20&theme=tokyonight&hide_border=true" height="150"/> 
 </p>
 
 ---
 
-## 💻 Languages  
+## 📚 Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiswaroop20&layout=compact&theme=tokyonight" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiswaroop20&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -48,7 +54,7 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiswaroop20&theme=tokyonight" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiswaroop20&theme=tokyonight"/>
 </p>
 
 ---
@@ -58,11 +64,10 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px" />
 </p>
@@ -74,12 +79,11 @@
 <p align="center">
   <a href="mailto:Jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jyotiswaroop20.github.io/shandilya-portfolio-website/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
-  </a>
-</p>  
+  <a href="https://jyotiswaroop20.github.io/shandilya-portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
 ---
 
-## ⚡ Fun Fact  
-💡 “Linux, Bash, and C are not just technologies — they are the foundation on which I build secure and automated systems.”  
+## ⚡ My Philosophy  
+💡 *"Linux, Bash, and automation are not just skills — they are pathways to building secure, reliable, and efficient systems."*
+
