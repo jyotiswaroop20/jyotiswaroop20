@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Junior+Linux+System+Administrator;⚙️+Bash+%26+Linux+Automation;🚀+Self-Taught+IT+Professional)](https://git.io/typing-svg)
 
-💻 A dedicated **Junior Linux System Administrator** with strong skills in Linux system configuration, server management, Bash scripting, and infrastructure troubleshooting.  
+💻 A dedicated **Linux System Administrator** with strong skills in Linux system configuration, server management, Bash scripting, and infrastructure troubleshooting.  
 ⚡ Hands-on experience managing **Linux servers, container environments (Podman), networking essentials, system hardening, and basic Windows Server administration**.  
 🚀 Passionate about building **secure, stable, and efficient Linux environments** through continuous learning and practical experimentation.  
 
