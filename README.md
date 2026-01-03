@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=2000&color=4CAF50&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;🐧+Junior+Linux+System+Administrator;⚙️+Bash+%26+Linux+Automation;🚀+Self-Taught+IT+Professional)](https://git.io/typing-svg)
 
-💻 A dedicated **Linux System Administrator** with strong skills in Linux system configuration, server management, Bash scripting, and infrastructure troubleshooting.  
+💻 A dedicated **Linux System Administrator** with strong skills in Linux system configuration, server management, Bash scripting, Python, Git(version Control) and infrastructure troubleshooting.  
 ⚡ Hands-on experience managing **Linux servers, container environments (Podman), networking essentials, system hardening, and basic Windows Server administration**.  
 🚀 Passionate about building **secure, stable, and efficient Linux environments** through continuous learning and practical experimentation.  
 
@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🐧 Transitioned from **School Administration to IT** through strong self-learning and hands-on Linux lab practice  
 - 🔭 Actively building my career in **Linux System Administration & Infrastructure Management**  
-- 🌱 Exploring **automation (Bash), Podman containers**, and system security  
+- 🌱 Exploring **automation (Bash and Python), Podman containers**, Git(Version Control) and system security  
 - ⚙️ Skilled in configuring essential services like **Apache, Nginx, DNS, DHCP, FTP, Samba, MySQL/MariaDB**  
 - 🎯 Goal: To contribute to **Linux infrastructure, automation tools**, and open-source projects  
 
@@ -18,12 +18,13 @@
 ## 🛠️ Tech Stack & Tools  
 
 `Linux (RHEL, CentOS, AlmaLinux, Rocky)`  
-`Bash Scripting` • `Podman` • `Networking (DNS, DHCP, NTP, Firewall)`  
+`Bash Scripting and Python` • `Podman` • `Networking (DNS, DHCP, NTP, Firewall)`  
 `Apache / Nginx / Tomcat` • `FTP / Samba / NFS`  
 `MySQL / MariaDB`  
 `Windows Server Basics (AD, DNS, DHCP)`  
 `Virtualization (VMware, Hyper-V, VirtualBox)`  
-`Troubleshooting (Hardware, Network, OS)`  
+`Troubleshooting (Hardware, Network, OS)`
+`Git (Version Control)`
 
 ---
 
@@ -68,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50px" />
 </p>
 
 ---
