@@ -22,9 +22,10 @@
 `Apache / Nginx / Tomcat` • `FTP / Samba / NFS`  
 `MySQL / MariaDB`  
 `Windows Server Basics (AD, DNS, DHCP)`  
-`Virtualization (VMware, Hyper-V, VirtualBox)`  
+`Virtualization (VMware, Hyper-V)`  
 `Troubleshooting (Hardware, Network, OS)`
 `Git (Version Control)`
+`Putty , Mobaxterm and MS-Office`
 
 ---
 
