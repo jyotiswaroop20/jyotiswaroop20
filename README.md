@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotiswaroop20&show_icons=true&theme=tokyonight" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyotiswaroop20&theme=tokyonight" />
 </p>
 
 ---
