@@ -40,7 +40,7 @@
 ## 🔥 GitHub Streaks  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jyotiswaroop20&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://ghchart.rshah.org/0e75b6/jyotiswaroop20" height="150"/>
 </p>
 
 ---
